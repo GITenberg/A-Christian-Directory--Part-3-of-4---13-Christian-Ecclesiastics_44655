@@ -1,0 +1,31 @@
+_repo: A-Christian-Directory--Part-3-of-4---13-Christian-Ecclesiastics_44655
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44655-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baxter, Richard
+    aliases:
+    - Salvianus, Gildas
+    - Reed, Mr.
+    - Baxter, R. (Richard)
+    birthdate: 1615
+    deathdate: 1691
+    gutenberg_agent_id: '41274'
+    url: http://www.gutenberg.org/2009/agents/41274
+description: ''
+gutenberg_issued: '2014-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Casuistry'
+- !lcsh 'Christian sociology'
+title: 'A Christian Directory, Part 3: Christian Ecclesiastics'
+url: http://www.gutenberg.org/ebooks/44655
